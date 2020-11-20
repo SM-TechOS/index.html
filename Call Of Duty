@@ -1,0 +1,281 @@
+
+<!doctype html>
+
+           <html>
+<head>
+<title>SM BR Games Store</title>
+</head>
+<link rel="icon" href="2sm.png" type="image/png" sizes="16x16">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<script>
+document.addEventListener('contextmenu', event => event.preventDefault());
+</script>
+<script>
+document.getElementById("ctrl").setAttribute('disabled', true);
+</script>
+<style>
+
+body {
+     background-image: url(https://www.kolpaper.com/wp-content/uploads/2020/04/call-of-duty-wallpaper.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: fixed;
+     
+}
+</style>
+</body>
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: black;
+  
+  
+}
+
+.navbar a {
+  float: left;
+  width: 10%;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 16px; 
+   
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: blue;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  width: 100%;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+transition-duration: 0.1s;
+  cursor: pointer;
+}
+<style>
+.button {
+transition-duration: 0.5s;
+  cursor: pointer;
+}
+.button1 {
+  background-image: linear-gradient(blue, white); 
+  color: white; 
+  border: none;
+}
+
+.button1:hover {
+  background-image: linear-gradient(white, black);
+  color: white;
+}
+</style>
+</style>
+</head>
+<body>
+
+<div class="navbar">
+  <a href="file:///C:/Users/91941/OneDrive/Desktop/index.html">Home</a>
+  <a href="#about">About</a>
+  <a href="file:///C:/Users/91941/OneDrive/Desktop/Contact.html">Contact</a>
+  <a href="https://sites.google.com/view/smtechnologyhomeofficial/home">SM Official</a>
+  
+  <div class="dropdown">
+    <button class="dropbtn">More ⇩
+      
+    </button>
+    <div class="dropdown-content">
+      <a href="file:///C:/Users/91941/OneDrive/Desktop/Call Of Duty.html"><img src="https://cdn.steamgriddb.com/logo_thumb/79f56e5e3e0e999b3c139f225838d41f.png" width= "400px"></a>
+      <a href="file:///C:/Users/91941/OneDrive/Desktop/Free Fire.html" >Free Fire</a>
+      <a href="file:///C:/Users/91941/OneDrive/Desktop/Pubg.html">Pubg </a>
+      
+      <a href="#">ScarFall</a>
+      <a href="#">Hopeless Land</a>
+      <a href="#">Fortinite</a>
+      
+    </div>
+   
+  </div> 
+
+<input align= "right" type= "search-box" onkeyup="myFunction()" value= "" placeholder= " Search Games" 
+style="
+  width: 40%;
+  background-color: white;
+   
+  padding: 12px 20px;
+  margin: 4px 0;
+  display: inline-block;
+  border: 1px solid white;
+  border-shadow: 50px 10px;
+  border-radius: 4px;
+  box-sizing: border-box;
+  ">
+
+<button class= "button button1" style= "border-radius: 10px;color: white;height: 45px; width: 80px;display: inline-block; box-sizing: border-box;padding: 12px 20px;
+  margin: 4px 0;text-align: center;" title= "Go" >&#128269;</button>
+</div>
+
+
+
+
+<style>
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  border-radius: 500px;
+  width: 100%;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 4px 2px;
+  transition-duration: 0.1s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-image: linear-gradient(blue, white); 
+  color: white; 
+  border: none;
+}
+
+.button1:hover {
+  background-image: linear-gradient(white, blue);
+  color: white;
+}
+
+.button2 {
+  background-image: linear-gradient(blue, white);
+  color: white; 
+  border: none;
+}
+
+.button2:hover {
+  background-image: linear-gradient(white, blue);
+  color: white;
+}
+
+.button3 {
+  background-image: linear-gradient(blue, white); 
+  color: white; 
+  border: 5px of solid black;
+}
+
+.button3:hover {
+  background-image: linear-gradient(white, blue);
+  color: white;
+}
+
+
+
+.button4 {
+  background-image: linear-gradient(blue, white); 
+  color: white;
+  border: none;
+}
+
+.button4:hover {
+  background-image:  linear-gradient(white, blue);
+  color: white;
+}
+</style>
+<h2 align= "left">
+<img src= "2sm.png" alt= "SM Logo" height= "20%">
+</h>
+<div class= "column1">
+<h1 align= "center">
+<img src= "https://teletype.in/files/7b/7b43ac78-8bde-456b-8f85-fa327122759b.png" alt= "CODM">
+
+</h></div>
+
+
+
+<br>
+<p align= "left">
+<font size= "4" color= "white">
+Call of Duty: Mobile is a free-to-play shooter video game developed by TiMi Studios and published by Activision and Garena for Android and iOS. It was released on October 1, 2019. The game saw one of the largest mobile game launches in history, generating over US$327 million with 250 million downloads by June 2020.
+
+Call of Duty: Mobile was announced in March 2019, with TiMi Studios, a subsidiary of Tencent Games, leading development. Many of the game's features were revealed at this announcement, promising a familiar experience for fans of the console games. The aim of the game was to take familiar aspects from the franchise's previous games and allow users to access them from their mobile devices. It features two in-game currencies, as well as a battle pass. On July 18, 2019, a soft launch began in Canada and Australia. The game was officially released in most other regions on October 1, 2019.
+
+Call of Duty: Mobile features many playable characters, maps, and gamemodes from previous games in the series. Different control settings were included to cater to player's preferences. A "zombies" game mode was added to the game in November 2019. This game mode follows the classic Call of Duty zombies "survival" formula where the player fights off endless waves of zombies, aiming to survive as long as possible. A "Raid" mode was also included where the player must defeat a set amount of waves of zombies before encountering one of two final bosses. Call of Duty: Mobile Zombies mode was removed on March 25, 2020 due to the game mode not meeting Activision's standards. However, Activision stated that it might be brought back in a later update.<br>
+</p>
+<p align= "center">
+<font size= "4" color= "white">
+<b>You can download the free fire from the given buttons below. </b>
+</p>
+
+<p align= "center">
+<a href= "https://play.google.com/store/apps/details?id=com.activision.callofduty.shooter&hl=en_IN&gl=US">
+<button class= "button button1"><i class="fa fa-download"></i> Download Call Of Duty: Mobile for android</button></a><br>
+<a href= "https://apps.apple.com/au/app/call-of-duty-mobile/id1287282214" download>
+<button class= "button button2"><i class="fa fa-download"></i> Download Call Of Duty: Mobile for IOS</button></a><br>
+
+<button class= "button button3" style= "cursor: not-allowed;"  disabled><i class="fa fa-download"></i>Download for Windows</button><br>
+<button class= "button button4"style= "cursor: not-allowed;" disabled><i class="fa fa-download"></i>Download for LD and Blue stalks</button>
+</p>
+<br>
+<style>
+footer {
+  text-align: center;
+  padding: 5px;
+  height: 90px;
+  
+  color: white;
+}
+</style>
+<footer>
+  <p>©Copyright 2020  <br>
+  <a href="https://sites.google.com/view/smtechnologyhomeofficial/home" style= "text-decoration: none; color: white;">SM </a> All Right Reserve</p>
+</footer>
+</body>
+</html>
+
+
+
+
